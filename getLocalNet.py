@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-"""
-create_time:2018.9.8
-"""
-
 import json
 import requests
 import re
